@@ -1,0 +1,321 @@
+{
+	"SERVICERESPONSE": {
+		"MSG": "SUCCESS",
+		"CODE": 0
+	},
+	"BODY": {
+		"TOTAL_COUNT": 361,
+		"DATA": [
+			{
+				"APPLICATION_DATA": {
+					"STATUS": "SUBMITTED",
+					"SCHOLARSHIPTYPEID": 34,
+					"CREATED_DATE": "2018-01-24 15:40:33.0",
+					"SCHOLARSHIPSELECTIONSTEP": 5,
+					"APPLICATION_ID": "14921BS9191",
+					"USERID": 14921,
+					"NID": 9191,
+					"SUBMITTED_DATE": "2018-01-24 15:40:33.0"
+				},
+				"USER": {
+					"MOBILE_NUMBER": "9891588865",
+					"EXPIRY": "18-07-2018",
+					"USER_SOURCE": "google",
+					"BIRTHDATE": "13-07-1991",
+					"LAST_NAME": "Verma",
+					"EMAIL": "prabhat.verma@gmail.com",
+					"PINCODE": "201301",
+					"FIRST_NAME": "Prabhat",
+					"VLE": false,
+					"FAMILYINCOME": "290000",
+					"CITY": "Noida",
+					"POSTALADDRESS": "Noida",
+					"ABSOLUTEINCOME": 0,
+					"USERID": 14921,
+					"FIRST_LOGIN": 0,
+					"USERNAME": "a1ff62c1-a79e-4959-888a-652cc8ff8283"
+				}
+			},
+			{
+				"APPLICATION_DATA": {
+					"STATUS": "SUBMITTED",
+					"SCHOLARSHIPTYPEID": 34,
+					"CREATED_DATE": "2018-01-24 15:40:14.0",
+					"SCHOLARSHIPSELECTIONSTEP": 5,
+					"APPLICATION_ID": "373265BS9191",
+					"USERID": 373265,
+					"NID": 9191,
+					"SUBMITTED_DATE": "2018-01-24 15:40:14.0"
+				},
+				"USER": {
+					"MOBILE_NUMBER": "9540788889",
+					"EXPIRY": "",
+					"USER_SOURCE": "google",
+					"BIRTHDATE": "18-05-1989",
+					"LAST_NAME": "Testttt",
+					"EMAIL": "devesh.test.b4s@gmail.com",
+					"PINCODE": "110003",
+					"FIRST_NAME": "Devesh",
+					"VLE": false,
+					"DEPENDENAT": "01",
+					"FAMILYINCOME": "12344",
+					"CITY": "NEW DELHI",
+					"POSTALADDRESS": "TYPE-4, A-115g",
+					"ABSOLUTEINCOME": 9900000,
+					"USERID": 373265,
+					"FIRST_LOGIN": 0,
+					"USERNAME": "2e4ddb65-4d8b-40ac-ba48-f06f7c9ab16e"
+				}
+			},
+			{
+				"APPLICATION_DATA": {
+					"STATUS": "SUBMITTED",
+					"SCHOLARSHIPTYPEID": 34,
+					"CREATED_DATE": "2018-01-24 15:40:00.0",
+					"SCHOLARSHIPSELECTIONSTEP": 5,
+					"APPLICATION_ID": "271BS9191",
+					"USERID": 271,
+					"NID": 9191,
+					"SUBMITTED_DATE": "2018-01-24 15:40:00.0"
+				},
+				"USER": {
+					"ALTERNATEMOBILE_NUMBER": "9560748995",
+					"MOBILE_NUMBER": "9971584565",
+					"EXPIRY": "08-01-2019",
+					"USER_SOURCE": "GOOGLE",
+					"BIRTHDATE": "03-01-2018",
+					"LAST_NAME": "Ror",
+					"EMAIL": "r.ajrore@gmail.com",
+					"PINCODE": "345342",
+					"FIRST_NAME": "Raj",
+					"PREFERREDLANGUAGES": "Hindi, English, Punjabi",
+					"VLE": false,
+					"DEPENDENAT": "02",
+					"FAMILYINCOME": "168209",
+					"CITY": "Noida",
+					"POSTALADDRESS": "A-75 Noida 58",
+					"ABSOLUTEINCOME": 89564,
+					"USERID": 271,
+					"FIRST_LOGIN": 0,
+					"USERNAME": "a5f6e11a-fb40-4762-b8d7-3f0680969911"
+				}
+			},
+			{
+				"APPLICATION_DATA": {
+					"STATUS": "SUBMITTED",
+					"SCHOLARSHIPTYPEID": 34,
+					"CREATED_DATE": "2018-01-23 16:26:25.0",
+					"SCHOLARSHIPSELECTIONSTEP": 5,
+					"APPLICATION_ID": "412461BS9191",
+					"USERID": 412461,
+					"NID": 9191,
+					"SUBMITTED_DATE": "2018-01-23 16:26:25.0"
+				},
+				"USER": {
+					"MOBILE_NUMBER": "9779828857",
+					"EXPIRY": "",
+					"USER_SOURCE": "google",
+					"BIRTHDATE": "26-02-1999",
+					"LAST_NAME": "Singh",
+					"EMAIL": "bakhshishcpw@gmail.com",
+					"PINCODE": "152123",
+					"FIRST_NAME": "Bakhshish",
+					"VLE": false,
+					"FAMILYINCOME": "40000",
+					"CITY": "FAZILKA",
+					"POSTALADDRESS": "VILLAGE CHAK PUNNA WALI PO MANDI LADHUKA",
+					"ABSOLUTEINCOME": 40000,
+					"USERID": 412461,
+					"FIRST_LOGIN": 0,
+					"USERNAME": "61c433a4-0455-4b74-a597-9ee24e3b69be"
+				}
+			},
+			{
+				"APPLICATION_DATA": {
+					"STATUS": "SUBMITTED",
+					"SCHOLARSHIPTYPEID": 34,
+					"CREATED_DATE": "2018-01-23 12:37:23.0",
+					"SCHOLARSHIPSELECTIONSTEP": 2,
+					"APPLICATION_ID": "329737BS9191",
+					"USERID": 329737,
+					"NID": 9191,
+					"SUBMITTED_DATE": "2018-01-23 12:37:23.0"
+				},
+				"USER": {
+					"ALTERNATEMOBILE_NUMBER": "6767676788",
+					"MOBILE_NUMBER": "8575665464",
+					"EXPIRY": "22-01-2019",
+					"USER_SOURCE": "google",
+					"BIRTHDATE": "29-08-1998",
+					"LAST_NAME": "Singh",
+					"EMAIL": "prabhjeet@buddy4study.com",
+					"PINCODE": "567674",
+					"FIRST_NAME": "Prabhjeet",
+					"VLE": false,
+					"DEPENDENAT": "04",
+					"FAMILYINCOME": "150000",
+					"CITY": "Jalandharhhh",
+					"POSTALADDRESS": "6yhghg",
+					"ABSOLUTEINCOME": 0,
+					"USERID": 329737,
+					"FIRST_LOGIN": 0,
+					"USERNAME": "1ff37530-6e6c-45b2-b645-40f067e94564"
+				}
+			},
+			{
+				"APPLICATION_DATA": {
+					"STATUS": "SUBMITTED",
+					"SCHOLARSHIPTYPEID": 34,
+					"CREATED_DATE": "2018-01-17 06:06:14.0",
+					"SCHOLARSHIPSELECTIONSTEP": 9,
+					"APPLICATION_ID": "405688BS9191",
+					"USERID": 405688,
+					"NID": 9191,
+					"SUBMITTED_DATE": "2018-01-17 06:06:14.0"
+				},
+				"USER": {
+					"ALTERNATEMOBILE_NUMBER": "7087733361",
+					"MOBILE_NUMBER": "7087733361",
+					"EXPIRY": "",
+					"USER_SOURCE": "google",
+					"BIRTHDATE": "19-11-1998",
+					"LAST_NAME": "Tyagi",
+					"EMAIL": "aryantyagi.apps@gmail.com",
+					"PINCODE": "245101",
+					"FIRST_NAME": "Aryan",
+					"VLE": false,
+					"DEPENDENAT": "05",
+					"FAMILYINCOME": "38000",
+					"CITY": "Hapur",
+					"POSTALADDRESS": "vill-post-rampur,hapur",
+					"ABSOLUTEINCOME": 38000,
+					"USERID": 405688,
+					"FIRST_LOGIN": 1,
+					"USERNAME": "6b3c0bcc-dad2-45e6-9bec-9823cfa86306"
+				}
+			},
+			{
+				"APPLICATION_DATA": {
+					"STATUS": "SUBMITTED",
+					"SCHOLARSHIPTYPEID": 34,
+					"CREATED_DATE": "2018-01-17 05:47:43.0",
+					"SCHOLARSHIPSELECTIONSTEP": 9,
+					"APPLICATION_ID": "415296BS9191",
+					"USERID": 415296,
+					"NID": 9191,
+					"SUBMITTED_DATE": "2018-01-17 05:47:43.0"
+				},
+				"USER": {
+					"MOBILE_NUMBER": "9530747644",
+					"EXPIRY": "",
+					"USER_SOURCE": "google",
+					"BIRTHDATE": "20-12-1999",
+					"LAST_NAME": "Rani",
+					"EMAIL": "usha090491@gmail.com",
+					"PINCODE": "147201",
+					"FIRST_NAME": "Usha",
+					"VLE": false,
+					"FAMILYINCOME": "25000",
+					"CITY": "NABHA",
+					"POSTALADDRESS": "VILLAGE CHHAJU BHATT, P.O. BINAHERI,",
+					"ABSOLUTEINCOME": 25000,
+					"USERID": 415296,
+					"FIRST_LOGIN": 0,
+					"USERNAME": "d0209a37-105b-41a9-9867-5eac8dc18441"
+				}
+			},
+			{
+				"APPLICATION_DATA": {
+					"STATUS": "SUBMITTED",
+					"SCHOLARSHIPTYPEID": 34,
+					"CREATED_DATE": "2018-01-16 16:15:35.0",
+					"SCHOLARSHIPSELECTIONSTEP": 5,
+					"APPLICATION_ID": "414147BS9191",
+					"USERID": 414147,
+					"NID": 9191,
+					"SUBMITTED_DATE": "2018-01-16 16:15:35.0"
+				},
+				"USER": {
+					"MOBILE_NUMBER": "9915841555",
+					"EXPIRY": "",
+					"BIRTHDATE": "06-11-1999",
+					"LAST_NAME": "Sharma",
+					"EMAIL": "sharmaparshant19@gmail.com",
+					"PINCODE": "143301",
+					"EMAIL_VERIFY": 10,
+					"FIRST_NAME": "Parshant",
+					"VLE": false,
+					"FAMILYINCOME": "50000",
+					"CITY": "tarn taran",
+					"POSTALADDRESS": "VPO CHABHAL KALAN TEH AND DISTT TARN TARAN",
+					"ABSOLUTEINCOME": 50000,
+					"USERID": 414147,
+					"FIRST_LOGIN": 0,
+					"USERNAME": "a89c386e-fe8b-4bfa-9ec1-e2fa9b727e24"
+				}
+			},
+			{
+				"APPLICATION_DATA": {
+					"STATUS": "SUBMITTED",
+					"SCHOLARSHIPTYPEID": 34,
+					"CREATED_DATE": "2018-01-16 14:04:01.0",
+					"SCHOLARSHIPSELECTIONSTEP": 2,
+					"APPLICATION_ID": "326853BS9191",
+					"USERID": 326853,
+					"NID": 9191,
+					"SUBMITTED_DATE": "2018-01-16 14:04:01.0"
+				},
+				"USER": {
+					"MOBILE_NUMBER": "9494053522",
+					"EXPIRY": "",
+					"USER_SOURCE": "google",
+					"BIRTHDATE": "23-11-1995",
+					"LAST_NAME": "Golla",
+					"EMAIL": "prudhvi.golla@gmail.com",
+					"PINCODE": "521301",
+					"FIRST_NAME": "Prudhvi",
+					"VLE": false,
+					"DEPENDENAT": "03",
+					"FAMILYINCOME": "68000",
+					"CITY": "GUDIVADA",
+					"POSTALADDRESS": "D.NO:10/154, D-4, RAJENDRA NAGAR II LANE",
+					"ABSOLUTEINCOME": 70000,
+					"USERID": 326853,
+					"FIRST_LOGIN": 0,
+					"USERNAME": "61e0c1e6-cbce-4d70-af97-a6b19210f93c"
+				}
+			},
+			{
+				"APPLICATION_DATA": {
+					"STATUS": "SUBMITTED",
+					"SCHOLARSHIPTYPEID": 34,
+					"CREATED_DATE": "2018-01-16 09:24:39.0",
+					"SCHOLARSHIPSELECTIONSTEP": 5,
+					"APPLICATION_ID": "412026BS9191",
+					"USERID": 412026,
+					"NID": 9191,
+					"SUBMITTED_DATE": "2018-01-16 09:24:39.0"
+				},
+				"USER": {
+					"MOBILE_NUMBER": "9463759804",
+					"EXPIRY": "",
+					"USER_SOURCE": "google",
+					"BIRTHDATE": "20-02-2000",
+					"LAST_NAME": "Shenaj",
+					"EMAIL": "shenaj598@gmail.com",
+					"PINCODE": "148024",
+					"FIRST_NAME": "Shenaj",
+					"VLE": false,
+					"FAMILYINCOME": "70000",
+					"CITY": "dhuri",
+					"POSTALADDRESS": "vpo-bhullerheri tehsil-dhuri",
+					"ABSOLUTEINCOME": 70000,
+					"USERID": 412026,
+					"FIRST_LOGIN": 0,
+					"USERNAME": "c5e9ff38-a123-4fd0-bd5b-3230b91e0f20"
+				}
+			}
+		],
+		"RESULT": "OK"
+	}
+}

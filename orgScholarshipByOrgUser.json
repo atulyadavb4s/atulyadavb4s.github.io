@@ -1,0 +1,112 @@
+{
+	"SERVICERESPONSE": {
+		"MSG": "SUCCESS",
+		"CODE": 0
+	},
+	"BODY": {
+		"DATA": {
+			"SCHOLARSHIPS": {
+				"TOTAL": 1,
+				"SCHOLARSHIP": [
+					{
+						"APPLICATION_LAUNCH_TYPE": 1,
+						"UPDATEUSER": 24,
+						"USER_APPLY": {
+							"TOTAL_USER_APPLY": 1476
+						},
+						"B4SID": "KCP1",
+						"EXTENDED_DEADLINE_DATE": "28-02-2018",
+						"ORGNAME": "Mobite Foundation",
+						"STEPS_DETAIL": {
+							"RECORD": [
+								{
+									"STEP_ID": 1,
+									"STEP_COUNT": 1120,
+									"STEP_NAME": "Total Applications"
+								},
+								{
+									"STEP_ID": 2,
+									"STEP_COUNT": 356,
+									"STEP_NAME": "Submitted"
+								},
+								{
+									"STEP_ID": 3,
+									"STEP_COUNT": 0,
+									"STEP_NAME": "Qualified"
+								},
+								{
+									"STEP_ID": 4,
+									"STEP_COUNT": 0,
+									"STEP_NAME": "Shortlisted"
+								},
+								{
+									"STEP_ID": 5,
+									"STEP_COUNT": 0,
+									"STEP_NAME": "Book Slot"
+								},
+								{
+									"STEP_ID": 6,
+									"STEP_COUNT": 0,
+									"STEP_NAME": "Selected (Telephonic)"
+								},
+								{
+									"STEP_ID": 7,
+									"STEP_COUNT": 0,
+									"STEP_NAME": "Selected (F2F Interview)"
+								},
+								{
+									"STEP_ID": 8,
+									"STEP_COUNT": 0,
+									"STEP_NAME": "Awarded"
+								},
+								{
+									"STEP_ID": 9,
+									"STEP_COUNT": 0,
+									"STEP_NAME": "Rejected"
+								}
+							],
+							"STATUS_DETAIL": [
+								{
+									"STATUS": "STARTED",
+									"STATUS_COUNT": 1120
+								},
+								{
+									"STATUS": "SUBMITTED",
+									"STATUS_COUNT": 356
+								}
+							]
+						},
+						"INTEREST_COUNTER": 0,
+						"SLUG": "post-graduation-endowment-scholarship-2018",
+						"SCHOLARS": 0,
+						"CREATEUSER": 25,
+						"STATUS": 1,
+						"LOGO_DETAIL": {
+							"FILESIZE": 4096,
+							"FILEMIME": "image/png",
+							"FILENAME": "Website-Icon-Post-Graduation-Endowment-2018.png",
+							"URI": "http://cdn.buddy4study.com/static/scholarship_logo/logo_9325_Website-Icon-Post-Graduation-Endowment-2018.png"
+						},
+						"APPLICATION_LAUNCH_DATE": "14-12-2017",
+						"USID": "KCPGES",
+						"LOGO_FID": 29090,
+						"TOTAL_SEAT": 17,
+						"TOTAL_PRIZE_MONEY": 0,
+						"COMENTS": [],
+						"QUALITY_CHECK": 0,
+						"NID": 9325,
+						"DEADLINE": "15-02-2018",
+						"NEW_IMAGE": 1,
+						"LIKECOUNT": 0,
+						"TITLE": "Mobite Foundation Post Graduation Endowment Scholarship 2018 ",
+						"HITCOUNT": 83556,
+						"FEATURED": false,
+						"APPLICABLE_FOR": "Students pursuing postgraduation in 2018",
+						"NEW_IMAGE_DEADLINE": "10-01-2018"
+					}
+				]
+			},
+			"RESULT": "OK"
+		}
+	}
+}

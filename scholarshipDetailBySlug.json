@@ -1,0 +1,351 @@
+{
+	"SERVICERESPONSE": {
+		"MSG": "SUCCESS",
+		"CODE": 0
+	},
+	"BODY": {
+		"SCHOLARSHIP_DOCUMENTS": [
+			{
+				"FID": "29128",
+				"FILE_MANAGED": {
+					"FILESIZE": 652054,
+					"FILEMIME": "application/pdf",
+					"FILENAME": "Marubeni India Meritorious Scholarship 2017-18 Guidelines Document.pdf",
+					"URI": "http://cdn.buddy4study.com/static/scholarship_docs/doc_9191Marubeni India Meritorious Scholarship 2017-18 Guidelines Document.pdf"
+				},
+				"TITLE": "Guidelines",
+				"DOCUMENT_TYPE": "download_form"
+			},
+			{
+				"FID": "29129",
+				"FILE_MANAGED": {
+					"FILESIZE": 88892,
+					"FILEMIME": "application/pdf",
+					"FILENAME": "Message from Marubeni's Chairman.pdf",
+					"URI": "http://cdn.buddy4study.com/static/scholarship_docs/doc_9191Message from Marubeni's Chairman.pdf"
+				},
+				"TITLE": "Message from Marubeni's Chairman",
+				"DOCUMENT_TYPE": "download_form"
+			}
+		],
+		"USER_APPLY": {
+			"TOTAL_USER_APPLY": 523
+		},
+		"COMENTS": [],
+		"RECOMENDED": [
+			{
+				"TOTAL_SEAT": 0,
+				"APPLICATION_LAUNCH_TYPE": 0,
+				"TOTAL_PRIZE_MONEY": 0,
+				"B4SID": "SJF7",
+				"QUALITY_CHECK": 1,
+				"NID": 8230,
+				"PURPOSE_AWARDS": "Up to INR 2000 per month",
+				"SLUG": "sitaram-jindal-foundation-scholarship-2017-18",
+				"STATUS": 1,
+				"DEADLINE": "31-12-2017",
+				"NEW_IMAGE": 1,
+				"LOGO_DETAIL": {
+					"FILESIZE": 34512,
+					"FILEMIME": "image/png",
+					"FILENAME": "sjf.png",
+					"URI": "http://cdn.buddy4study.com/static/scholarship_logo/logo_8230_sjf.png"
+				},
+				"TITLE": "Sitaram Jindal Foundation Scholarship 2017-18",
+				"HITCOUNT": 84705,
+				"APPLICATION_LAUNCH_DATE": "01-03-2017",
+				"FEATURED": false,
+				"APPLICABLE_FOR": "Class 11 to post graduation",
+				"NEW_IMAGE_DEADLINE": "27-03-2017",
+				"LOGO_FID": 27105
+			},
+			{
+				"TOTAL_SEAT": 0,
+				"APPLICATION_LAUNCH_TYPE": 0,
+				"TOTAL_PRIZE_MONEY": 0,
+				"B4SID": "FFE4",
+				"QUALITY_CHECK": 1,
+				"NID": 9301,
+				"PURPOSE_AWARDS": "Financial and other assistance",
+				"SLUG": "foundation-for-excellence-scholarship-2018",
+				"STATUS": 1,
+				"DEADLINE": "31-12-2017",
+				"NEW_IMAGE": 1,
+				"LOGO_DETAIL": {
+					"FILESIZE": 18728,
+					"FILEMIME": "image/png",
+					"FILENAME": "Foundation-for-Excellence.png",
+					"URI": "http://cdn.buddy4study.com/static/scholarship_logo/logo_5ff49c3e-2d6b-4a3c-b9dc-b2aadae82746_Foundation-for-Excellence.png"
+				},
+				"TITLE": "Foundation for Excellence Scholarship 2017-18",
+				"HITCOUNT": 798,
+				"APPLICATION_LAUNCH_DATE": "15-11-2017",
+				"FEATURED": false,
+				"APPLICABLE_FOR": "Students enrolling in BE/B.Tech and MBBS degree program",
+				"NEW_IMAGE_DEADLINE": "30-12-2017",
+				"LOGO_FID": 29039
+			},
+			{
+				"TOTAL_SEAT": 0,
+				"APPLICATION_LAUNCH_TYPE": 0,
+				"TOTAL_PRIZE_MONEY": 0,
+				"B4SID": "MVI2",
+				"QUALITY_CHECK": 1,
+				"NID": 8828,
+				"PURPOSE_AWARDS": "Reduction of AUD 15,000 in tuition fees",
+				"SLUG": "macquarie-vice-chancellor-international-scholarship-global-allianz-fund-2018",
+				"STATUS": 1,
+				"DEADLINE": "31-12-2017",
+				"NEW_IMAGE": 1,
+				"LOGO_DETAIL": {
+					"FILESIZE": 13038,
+					"FILEMIME": "image/png",
+					"FILENAME": "logo.png",
+					"URI": "http://cdn.buddy4study.com/static/scholarship_logo/logo_377c6a14-7a8d-4f99-8409-9408a3a2a58d_logo.png"
+				},
+				"TITLE": "Macquarie Vice-Chancellor's International Scholarship- Global Allianz Fund 2018",
+				"HITCOUNT": 1099,
+				"APPLICATION_LAUNCH_DATE": "01-08-2017",
+				"FEATURED": false,
+				"APPLICABLE_FOR": "Class 12 pass/ graduates",
+				"NEW_IMAGE_DEADLINE": "08-09-2017",
+				"LOGO_FID": 28259
+			},
+			{
+				"TOTAL_SEAT": 0,
+				"APPLICATION_LAUNCH_TYPE": 0,
+				"TOTAL_PRIZE_MONEY": 0,
+				"B4SID": "ATR1",
+				"QUALITY_CHECK": 1,
+				"NID": 8653,
+				"PURPOSE_AWARDS": "Multiple awards",
+				"SLUG": "all-top-review-writing-contest-2017",
+				"STATUS": 1,
+				"DEADLINE": "31-12-2017",
+				"NEW_IMAGE": 1,
+				"LOGO_DETAIL": {
+					"FILESIZE": 10758,
+					"FILEMIME": "image/jpeg",
+					"FILENAME": "Logo.jpg",
+					"URI": "http://cdn.buddy4study.com/static/scholarship_logo/logo_509c2d80-26c3-42d3-881c-ce7e672b2fe6_Logo.jpg"
+				},
+				"TITLE": "All Top Review Writing Contest 2017",
+				"HITCOUNT": 8215,
+				"APPLICATION_LAUNCH_DATE": "01-07-2017",
+				"FEATURED": false,
+				"APPLICABLE_FOR": "High school and college students",
+				"NEW_IMAGE_DEADLINE": "14-07-2017",
+				"LOGO_FID": 27917
+			},
+			{
+				"TOTAL_SEAT": 100,
+				"APPLICATION_LAUNCH_TYPE": 1,
+				"TOTAL_PRIZE_MONEY": 40000,
+				"B4SID": "MIM2",
+				"QUALITY_CHECK": 1,
+				"NID": 9191,
+				"EXTENDED_DEADLINE_DATE": "13-01-2018",
+				"PURPOSE_AWARDS": "INR 40,000 (minimum) per scholar",
+				"SLUG": "marubeni-india-meritorious-scholarship-2018",
+				"STATUS": 1,
+				"DEADLINE": "13-01-2018",
+				"NEW_IMAGE": 1,
+				"LOGO_DETAIL": {
+					"FILESIZE": 10643,
+					"FILEMIME": "image/jpeg",
+					"FILENAME": "Marubeni logo.jpg",
+					"URI": "http://cdn.buddy4study.com/static/scholarship_logo/logo_9191_Marubeni_logo.jpg"
+				},
+				"TITLE": "Marubeni India Meritorious Scholarship 2017-18",
+				"HITCOUNT": 46097,
+				"APPLICATION_LAUNCH_DATE": "22-11-2017",
+				"FEATURED": true,
+				"APPLICABLE_FOR": "Class 12 pass-outs [2016-17 batch] pursuing 1st year of graduation",
+				"NEW_IMAGE_DEADLINE": "22-12-2017",
+				"LOGO_FID": 28930
+			},
+			{
+				"TOTAL_SEAT": 5,
+				"APPLICATION_LAUNCH_TYPE": 0,
+				"TOTAL_PRIZE_MONEY": 0,
+				"B4SID": "ECC1",
+				"QUALITY_CHECK": 0,
+				"NID": 9296,
+				"PURPOSE_AWARDS": "USD 1000",
+				"SLUG": "everett-community-college-international-leadership-scholarship-2018",
+				"STATUS": 1,
+				"DEADLINE": "01-02-2018",
+				"NEW_IMAGE": 1,
+				"LOGO_DETAIL": {
+					"FILESIZE": 24579,
+					"FILEMIME": "image/png",
+					"FILENAME": "Everett-Community-College.png",
+					"URI": "http://cdn.buddy4study.com/static/scholarship_logo/logo_9296_Everett-Community-College.png"
+				},
+				"TITLE": "Everett Community College International Leadership Scholarship 2018",
+				"HITCOUNT": 203,
+				"APPLICATION_LAUNCH_DATE": "01-12-2017",
+				"FEATURED": false,
+				"APPLICABLE_FOR": "New students enrolling at Everett Community College",
+				"NEW_IMAGE_DEADLINE": "30-01-2018",
+				"LOGO_FID": 29030
+			},
+			{
+				"TOTAL_SEAT": 1,
+				"APPLICATION_LAUNCH_TYPE": 0,
+				"TOTAL_PRIZE_MONEY": 0,
+				"B4SID": "ARA2",
+				"QUALITY_CHECK": 0,
+				"NID": 9331,
+				"PURPOSE_AWARDS": "AUD 2,500",
+				"SLUG": "acu-robert-and-richard-charles-carroll-scholarship-2018",
+				"STATUS": 1,
+				"DEADLINE": "05-03-2018",
+				"NEW_IMAGE": 1,
+				"LOGO_DETAIL": {
+					"FILESIZE": 18031,
+					"FILEMIME": "image/png",
+					"FILENAME": "ACU.png",
+					"URI": "http://cdn.buddy4study.com/static/scholarship_logo/logo_9331_ACU.png"
+				},
+				"TITLE": "ACU Robert and Richard Charles Carroll Scholarship 2018",
+				"HITCOUNT": 115,
+				"APPLICATION_LAUNCH_DATE": "21-07-2017",
+				"FEATURED": false,
+				"APPLICABLE_FOR": "Students applying for an ACU degree",
+				"NEW_IMAGE_DEADLINE": "03-03-2018",
+				"LOGO_FID": 29085
+			}
+		],
+		"SCHOLARSHIP_SMS": "Marubeni India Meritorious Scholarship 2017-18\r\nEligibility-Class 12 passed\r\nApply-Online\r\nDeadline- 22/12/2017\r\nwww.b4s.in/id/MIM2",
+		"SCHOLARSHIP_META": {
+			"meta_description": "Marubeni India Meritorious Scholarship provides an opportunity to win up to INR 40000 to Class 12 passouts/pursuing UG 1st year. To get more information about application process, deadline and eligibility Read More.",
+			"meta_title": "Marubeni India Meritorious Scholarship 2018 [ Win up to INR 40,000 ]",
+			"meta_keyword": "meritorious scholarships, Punjab scholarship, Marubeni scholarship, pursue higher education"
+		},
+		"STEPS_DETAIL": {
+			"RECORD": [
+				{
+					"STEP_ID": 1,
+					"STEP_COUNT": 336,
+					"STEP_NAME": "Total Applications"
+				},
+				{
+					"STEP_ID": 2,
+					"STEP_COUNT": 29,
+					"STEP_NAME": "Submitted"
+				},
+				{
+					"STEP_ID": 3,
+					"STEP_COUNT": 46,
+					"STEP_NAME": "Qualified"
+				},
+				{
+					"STEP_ID": 4,
+					"STEP_COUNT": 0,
+					"STEP_NAME": "Shortlisted"
+				},
+				{
+					"STEP_ID": 5,
+					"STEP_COUNT": 0,
+					"STEP_NAME": "Book Slot"
+				},
+				{
+					"STEP_ID": 6,
+					"STEP_COUNT": 0,
+					"STEP_NAME": "Selected (Telephonic)"
+				},
+				{
+					"STEP_ID": 7,
+					"STEP_COUNT": 0,
+					"STEP_NAME": "Selected (F2F Interview)"
+				},
+				{
+					"STEP_ID": 8,
+					"STEP_COUNT": 0,
+					"STEP_NAME": "Awarded"
+				},
+				{
+					"STEP_ID": 9,
+					"STEP_COUNT": 112,
+					"STEP_NAME": "Rejected"
+				}
+			],
+			"STATUS_DETAIL": [
+				{
+					"STATUS": "STARTED",
+					"STATUS_COUNT": 336
+				},
+				{
+					"STATUS": "SUBMITTED",
+					"STATUS_COUNT": 187
+				}
+			]
+		},
+		"STEP": {},
+		"SCHOLARSHIP_WEBSITE_LINKS": [
+			{
+				"NID": 9191,
+				"URL": "http://www.buddy4study.com/applications/MIM2/instruction",
+				"DEFAULT": 1,
+				"NAME": "Apply online link"
+			},
+			{
+				"NID": 9191,
+				"URL": "http://www.marubeni.co.in/",
+				"DEFAULT": 0,
+				"NAME": "Original website"
+			}
+		],
+		"DATA": {
+			"APPLICATION_LAUNCH_TYPE": 1,
+			"UPDATEUSER": 16,
+			"CREATED_AT": "17-11-2017",
+			"B4SID": "MIM2",
+			"EXTENDED_DEADLINE_DATE": "13-01-2018",
+			"ORGNAME": "Marubeni India Private Limited",
+			"INTEREST_COUNTER": 0,
+			"SLUG": "marubeni-india-meritorious-scholarship-2018",
+			"CREATEUSER": 16,
+			"STATUS": 1,
+			"COUNTRY": "india",
+			"LOGO_DETAIL": {
+				"FILESIZE": 10643,
+				"FILEMIME": "image/jpeg",
+				"FILENAME": "Marubeni logo.jpg",
+				"URI": "http://cdn.buddy4study.com/static/scholarship_logo/logo_9191_Marubeni_logo.jpg"
+			},
+			"UPDATED_AT": "22-12-2017",
+			"APPLICATION_LAUNCH_DATE": "22-11-2017",
+			"USID": "MIMS",
+			"LOGO_FID": 28930,
+			"TOTAL_SEAT": 100,
+			"TOTAL_PRIZE_MONEY": 40000,
+			"ONLINE_DEADLINE": "22-12-2017",
+			"QUALITY_CHECK": 1,
+			"NID": 9191,
+			"PURPOSE_AWARDS": "INR 40,000 (minimum) per scholar",
+			"OFFLINE_DEADLINE": "22-12-2017",
+			"LATEST": 1,
+			"DEADLINE": "13-01-2018",
+			"NEW_IMAGE": 1,
+			"TITLE": "Marubeni India Meritorious Scholarship 2017-18",
+			"HITCOUNT": 46096,
+			"FEATURED": true,
+			"APPLICABLE_FOR": "Class 12 pass-outs [2016-17 batch] pursuing 1st year of graduation",
+			"NEW_IMAGE_DEADLINE": "22-12-2017"
+		},
+		"LIKECOUNT": 0,
+		"SCHOLARSHIP_BODY": {
+			"HOW_TO_APPLY": "<p>Application process<\/p>\r\n\r\n<p><strong>Step 1:<\/strong>&nbsp;Go to <a href=\"http://www.buddy4study.com/applications/MIM2/instruction\">Link<\/a><\/p>\r\n\r\n<p><strong>Step 2:<\/strong>&nbsp;Register/Login and continue to the application&nbsp;<\/p>\r\n\r\n<p><strong>Step 3:<\/strong>&nbsp;After signing in, click on the &lsquo;START APPLICATION&rsquo; button to start filling the simple online application form<\/p>\r\n\r\n<p><strong>Step 4:<\/strong>&nbsp;Upload the essential documents<\/p>\r\n",
+			"PROVIDER_MOBILE": "support@buddy4study.com",
+			"CONTACT_DETAILS": "<p>Buddy4Study, <span style=\"color:rgba(0, 0, 0, 0.87); font-family:roboto,noto sans devanagari ui,noto sans bengali ui,noto sans telugu ui,noto sans tamil ui,noto sans gujarati ui,noto sans kannada ui,noto sans malayalam ui,noto sans gurmukhi ui,arial,sans-serif\">Stellar IT Park C-25, No.8,9 &amp; 10 Tower - I, Ground floor,&nbsp;Sector 62, Noida, Uttar Pradesh 201301,<\/span> Email: support@buddy4study.com Contact number: +91- 8383821273 (Any query with respect to this Scholarship shall be referred to above-mentioned contact details ONLY)<\/p>\r\n",
+			"MORE_DETAILS": "<p><strong>Documents required: <\/strong>The applicants must submit the following documents while applying for the scholarship.&nbsp;<strong>(Submit scanned copies of all available documents)<\/strong><\/p>\r\n\r\n<ul>\r\n\t<li>Passport size photo<\/li>\r\n\t<li>One age proof document (Acceptable documents: Birth certificate, First and last pages of a valid Indian passport, Driver&rsquo;s license, Class 10 mark sheet with Date of Birth mentioned)<\/li>\r\n\t<li>One identity proof (Acceptable documents: PAN Card, Voter Identity Card, Driver&rsquo;s License, Aadhar Card, Class 10&nbsp;mark sheet with photo)<\/li>\r\n<\/ul>\r\n\r\n<p><strong>Family income certificate (any one)<\/strong><\/p>\r\n\r\n<ul>\r\n\t<li>BPL card (if belonging to BPL category)<\/li>\r\n\t<li>Income certificate (Government approved organization)<\/li>\r\n\t<li>Recent monthly pay slip of the main wage-earner of the family<\/li>\r\n<\/ul>\r\n\r\n<p><strong>Qualification certificates<\/strong><\/p>\r\n\r\n<ul>\r\n\t<li>Class 10 mark sheet<\/li>\r\n\t<li>Class 12 mark sheet<\/li>\r\n\t<li>Latest graduation mark sheet<\/li>\r\n<\/ul>\r\n\r\n<p><strong>Admission confirmation<\/strong><\/p>\r\n\r\n<ul>\r\n\t<li>Admission letter<\/li>\r\n\t<li>Latest college fee receipt<\/li>\r\n<\/ul>\r\n\r\n<p>&nbsp;<\/p>\r\n\r\n<p><strong>Scholar Selection criteria:<\/strong><\/p>\r\n\r\n<ul>\r\n\t<li><strong>Candidates need to fill a simple online application form<\/strong>\r\n\r\n\t<ul>\r\n\t\t<li>Need to provide personal details, academic details, reference details etc.<\/li>\r\n\t\t<li>2 subjective questions about themselves<\/li>\r\n\t<\/ul>\r\n\t<\/li>\r\n\t<li><strong>Shortlisting:<\/strong> Percentile ranking based on class 12 performance and family income and background.<\/li>\r\n\t<li>Based on the shortlisting, candidates will be selected for the telephonic interview round.<\/li>\r\n\t<li>Based on the telephonic interview round shortlisting, candidates will be selected for the final personal interview round.<\/li>\r\n\t<li>Final personal interview round will be conducted at New Delhi\r\n\t<ul>\r\n\t\t<li>Total Scholarship seats: 100 (Approx.)<\/li>\r\n\t\t<li>Out of these 100 scholarships, up to 25% of scholarships shall be reserved and awarded to the deserving and meritorious students who were awarded a scholarship under &ldquo;Marubeni India Meritorious Scholarship 2016&rdquo;. Such candidates must have successfully passed the first year of their Undergraduate / Professional /Technical Courses with state/UGC recognized Universities / Reputed Engineering, Management and other technical institutes, however, the condition of studying in the State of Punjab ONLY shall not apply to such candidates.<\/li>\r\n\t<\/ul>\r\n\t<\/li>\r\n<\/ul>\r\n\r\n<p>&nbsp;<\/p>\r\n\r\n<p><strong>Timeline of Activities (Tentative, subject to revision):<\/strong><\/p>\r\n\r\n<ul>\r\n\t<li>22-Nov: Launch of Marubeni Scholarship Program (Opening Date)<\/li>\r\n\t<li>13-Jan: Last date of submission of online applications (Closing Date)<\/li>\r\n\t<li>18-Jan: Announcement of shortlisted candidates<\/li>\r\n\t<li>22-Jan: Telephonic Interviews to start<\/li>\r\n\t<li>2-Feb: Closure of telephonic interviews<\/li>\r\n\t<li>14-Feb: Announcement of shortlisted candidates for Final Interview<\/li>\r\n\t<li>24-Feb: Personal (face-to-face) interviews of the candidates at Marubeni&rsquo;s Delhi office<\/li>\r\n\t<li>1-Mar: Announcement of final selected candidates<\/li>\r\n\t<li>15-Mar: Scholar felicitation ceremony<\/li>\r\n<\/ul>\r\n\r\n<p><strong>Terms and conditions:<\/strong><\/p>\r\n\r\n<ul>\r\n\t<li>Marubeni India Private Limited (&ldquo;Marubeni India&rdquo;) reserves the right to modify, cancel or withdraw this Scholarship program at any stage without giving any prior notice or assigning any reason and accepts no responsibility for the consequences of such modification/cancellation or withdrawal.<\/li>\r\n\t<li>The selection of candidates for awarding scholarship shall be done solely by Marubeni India and the decision shall be final and binding.&nbsp;<\/li>\r\n\t<li>This Scholarship Program aims to provide financial assistance to meritorious and needy students and to promote their higher education. Thus, Scholarship cannot be demanded as a right.&nbsp;<\/li>\r\n\t<li>The Scholarship amount shall be paid to the selected candidates through normal banking channels either through direct bank transfer or by account payee cheque/demand draft. Thus, all selected candidates must have active bank account in their own name at the time of remittance of scholarship amount or issue of account payee cheque/demand draft. Marubeni India shall not be liable for any loss or damage of the cheque/demand draft once it has been handed over to the selected candidate.&nbsp;<\/li>\r\n\t<li>The candidates shall be required to produce the original certificates/documents relating to their education, family income etc. at the time or before face to face interview. Failure to produce such certificates/documents (in original) shall disqualify the candidate from this Scholarship Program.<\/li>\r\n\t<li>CANVASSING IN ANY FORM SHALL BE A DISQUALIFICATION.<\/li>\r\n\t<li>The scholarship for a candidate may be withdrawn at any stage if you provide incorrect, false or misleading information or withhold relevant information.&nbsp;<\/li>\r\n\t<li>The scholarship shall be non-transferable.<\/li>\r\n\t<li>Marubeni India shall not be responsible for payment of any taxes or levies that may be applicable on/charged to the scholarship amount.&nbsp;<\/li>\r\n\t<li>Marubeni India shall not be liable or held responsible for any lack or lapse in any communication on account of failure or delay by any of the Internet, Telecom, SMS and E-mails service provider. No correspondence in this regard will be entertained.<\/li>\r\n\t<li>Disputes, if any, will be subject to exclusive jurisdiction of the courts at New Delhi only.<\/li>\r\n<\/ul>\r\n",
+			"PROVIDER_EMAIL": "support@buddy4study.com",
+			"INTRODUCTION": "<p>Marubeni India Private Limited invites applications for Marubeni India Meritorious Scholarship 2017-18 from&nbsp;talented, meritorious and needy students for pursuing their higher education.<\/p>\r\n",
+			"ELIGIBILITY": "<p>Eligibility criteria (All conditions need to be fulfilled):<\/p>\r\n\r\n<ul>\r\n\t<li>Students who have scored more than 75% marks in their Board exams in Class 12 (academic session 2016-17) and continuing their higher education in any full-time Undergraduate /Professional /Technical Courses with state/UGC recognized Universities / Reputed Engineering, Management and other technical institutes situated in the <strong>State of Punjab (including Chandigarh) ONLY.<\/strong><\/li>\r\n\t<li>Students who are not availing any other scholarship (amount of which is INR 6,000 p.a. or more)<\/li>\r\n\t<li>Students whose family income (from all sources) is not more than INR 200,000 p.a.<\/li>\r\n<\/ul>\r\n\r\n<p><strong>Note:<\/strong> Children of employees of Marubeni, Buddy4Study and any Central/State government including Municipal corporation are not eligible to participate in the scholarship program.<\/p>\r\n",
+			"PROVIDER_NAME": "Marubeni India Private Limited"
+		},
+		"RESULT": "OK"
+	}
+}

@@ -1,0 +1,185 @@
+{
+	"SERVICERESPONSE": {
+		"MSG": "SUCCESS",
+		"CODE": 0
+	},
+	"BODY": {
+		"DATA": {
+			"INCOME": [
+				{
+					"INCOME": "Less than INR 1.0 Lakh",
+					"USER_COUNT": 276
+				},
+				{
+					"INCOME": "Less than INR 3.0 Lakh",
+					"USER_COUNT": 68
+				},
+				{
+					"INCOME": "INR 3.0 Lakh to 5.0 Lakh",
+					"USER_COUNT": 2
+				},
+				{
+					"INCOME": "Above INR 5.0 lakh",
+					"USER_COUNT": 4
+				},
+				{
+					"INCOME": "Not available",
+					"USER_COUNT": 0
+				}
+			],
+			"SCHOLARSHIP_KNOWHOW": [
+				{
+					"SOURCE": "Buddy4Study",
+					"USER_COUNT": 42
+				},
+				{
+					"SOURCE": "College poster/notice board",
+					"USER_COUNT": 4
+				},
+				{
+					"SOURCE": "Newspaper",
+					"USER_COUNT": 14
+				},
+				{
+					"SOURCE": "Friends",
+					"USER_COUNT": 1
+				},
+				{
+					"SOURCE": "Social media (Facebook, Google, Twitter, Linkedin)",
+					"USER_COUNT": 5
+				},
+				{
+					"SOURCE": "Teacher",
+					"USER_COUNT": 2
+				},
+				{
+					"SOURCE": "Others",
+					"USER_COUNT": 1
+				}
+			],
+			"STATE": [
+				{
+					"STATE_NAME": "Andhra Pradesh",
+					"USER_COUNT": 22
+				},
+				{
+					"STATE_NAME": "Assam",
+					"USER_COUNT": 1
+				},
+				{
+					"STATE_NAME": "Bihar",
+					"USER_COUNT": 10
+				},
+				{
+					"STATE_NAME": "Chandigarh",
+					"USER_COUNT": 5
+				},
+				{
+					"STATE_NAME": "Chhattisgarh",
+					"USER_COUNT": 2
+				},
+				{
+					"STATE_NAME": "Delhi",
+					"USER_COUNT": 3
+				},
+				{
+					"STATE_NAME": "Gujarat",
+					"USER_COUNT": 7
+				},
+				{
+					"STATE_NAME": "Haryana",
+					"USER_COUNT": 52
+				},
+				{
+					"STATE_NAME": "Himachal Pradesh",
+					"USER_COUNT": 3
+				},
+				{
+					"STATE_NAME": "Jammu And Kashmir",
+					"USER_COUNT": 2
+				},
+				{
+					"STATE_NAME": "Jharkhand",
+					"USER_COUNT": 2
+				},
+				{
+					"STATE_NAME": "Karnataka",
+					"USER_COUNT": 12
+				},
+				{
+					"STATE_NAME": "Kerala",
+					"USER_COUNT": 6
+				},
+				{
+					"STATE_NAME": "Madhya Pradesh",
+					"USER_COUNT": 7
+				},
+				{
+					"STATE_NAME": "Maharashtra",
+					"USER_COUNT": 9
+				},
+				{
+					"STATE_NAME": "Orissa",
+					"USER_COUNT": 1
+				},
+				{
+					"STATE_NAME": "Punjab",
+					"USER_COUNT": 135
+				},
+				{
+					"STATE_NAME": "Rajasthan",
+					"USER_COUNT": 29
+				},
+				{
+					"STATE_NAME": "Tamilnadu",
+					"USER_COUNT": 5
+				},
+				{
+					"STATE_NAME": "Uttar Pradesh",
+					"USER_COUNT": 26
+				},
+				{
+					"STATE_NAME": "Uttarakhand",
+					"USER_COUNT": 1
+				},
+				{
+					"STATE_NAME": "West Bengal",
+					"USER_COUNT": 13
+				},
+				{
+					"STATE_NAME": "Telangana",
+					"USER_COUNT": 8
+				}
+			],
+			"GENDER": [
+				{
+					"GENDER": "Female",
+					"USER_COUNT": 145
+				},
+				{
+					"GENDER": "Male",
+					"USER_COUNT": 216
+				}
+			],
+			"COURSE": [
+				{
+					"COURSE": "B.Ed",
+					"USER_COUNT": 1
+				},
+				{
+					"COURSE": "B.Sc",
+					"USER_COUNT": 1
+				},
+				{
+					"COURSE": "B.Tech/B.E.",
+					"USER_COUNT": 1
+				},
+				{
+					"COURSE": "M.Tech",
+					"USER_COUNT": 1
+				}
+			]
+		},
+		"RESULT": "OK"
+	}
+}

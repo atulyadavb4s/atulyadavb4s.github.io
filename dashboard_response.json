@@ -1,0 +1,159 @@
+
+{
+    "SERVICERESPONSE": {
+        "MSG": "SUCCESS",
+        "CODE": 0
+    },
+    "BODY": {
+        "DATA": {
+            "CONSOLIDATED":[       
+            {
+                "DATEWISECOUNT": [{"DATE":"02-02-1018","COUNT":2},{"DATE":"02-02-1018","COUNT":2}],
+                "STATUS": "pageviews",
+                "TOTAL": 10,
+                "MALE":3,
+                "FEMALE":2,
+                "TRANSGENDER":2
+            },
+            {
+                "DATEWISECOUNT": [{"DATE":"02-02-1018","COUNT":2},{"DATE":"02-02-1018","COUNT":2}],
+                "STATUS": "registered",
+                "TOTAL": 10,
+                "MALE":3,
+                "FEMALE":2,
+                "TRANSGENDER":2
+            },
+            {
+                "DATEWISECOUNT": [{"DATE":"02-02-1018","COUNT":2},{"DATE":"02-02-1018","COUNT":2}],
+                "STATUS": "submitted",
+                "TOTAL": 10,
+                "MALE":3,
+                "FEMALE":2,
+                "TRANSGENDER":2
+            },
+            
+            {
+  
+                "STATUS": "qualified",
+                "TOTAL": 10,
+                "MALE":3,
+                "FEMALE":2,
+                "TRANSGENDER":2
+            },
+            {
+  
+                "STATUS": "shortlisted",
+                "TOTAL": 10,
+                "MALE":3,
+                "FEMALE":2,
+                "TRANSGENDER":2
+            },
+            {
+  
+                "STATUS": "round1",
+                "TOTAL": 10,
+                "MALE":3,
+                "FEMALE":2,
+                "TRANSGENDER":2
+            },
+            {
+  
+                "STATUS": "round2",
+                "TOTAL": 10,
+                "MALE":3,
+                "FEMALE":2,
+                "TRANSGENDER":2
+            },
+            {
+  
+                "STATUS": "awarded",
+                "TOTAL": 10,
+                "MALE":3,
+                "FEMALE":2,
+                "TRANSGENDER":2
+            }
+
+        ],
+
+       "STATEWISE":[
+          
+              {
+              "STATE": "Uttar Pradesh",
+              "STATEID" :21,
+            "STATECONSOLIDATEDDATA":[       
+            {
+               
+                "STATUS": "pageviews",
+                "TOTAL": 10,
+                "MALE":3,
+                "FEMALE":2,
+                "TRANSGENDER":2
+            },
+            {
+                "STATUS": "registered",
+                "TOTAL": 10,
+                "MALE":3,
+                "FEMALE":2,
+                "TRANSGENDER":2
+            },
+            {
+                "STATUS": "submitted",
+                "TOTAL": 10,
+                "MALE":3,
+                "FEMALE":2,
+                "TRANSGENDER":2
+            },
+            
+            {
+  
+                "STATUS": "qualified",
+                "TOTAL": 10,
+                "MALE":3,
+                "FEMALE":2,
+                "TRANSGENDER":2
+            },
+            {
+  
+                "STATUS": "shortlisted",
+                "TOTAL": 10,
+                "MALE":3,
+                "FEMALE":2,
+                "TRANSGENDER":2
+            },
+            {
+  
+                "STATUS": "round1",
+                "TOTAL": 10,
+                "MALE":3,
+                "FEMALE":2,
+                "TRANSGENDER":2
+            },
+            {
+  
+                "STATUS": "round2",
+                "TOTAL": 10,
+                "MALE":3,
+                "FEMALE":2,
+                "TRANSGENDER":2
+            },
+            {
+  
+                "STATUS": "awarded",
+                "TOTAL": 10,
+                "MALE":3,
+                "FEMALE":2,
+                "TRANSGENDER":2
+            }
+
+        ]
+         } 
+       
+        ]
+          
+            
+       } ,
+        "RESULT": "OK"
+
+     }
+    
+}
